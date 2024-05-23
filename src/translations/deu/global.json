@@ -1,0 +1,64 @@
+{
+    "header": {
+        "home": "zu Hause",
+        "projects": "Projekte",
+        "certifications": "Zertifizierungen",
+        "cv": "„Lebenslauf",
+        "skills": " „Fähigkeiten",
+        "connect": "Lassen Sie uns verbinden"
+    },
+    "banner": {
+        "welcome": "Willkommen in meinem Portfolio",
+        "hello": "Hallo!",
+        "am": "Ich bin Maximo Ortelli,",
+        "description": "„Ich bin ein Full-Stack-Entwickler mit 3 Jahren Erfahrung in der Erstellung solider Webanwendungen. Bereitstellung hochwertiger Lösungen, kompetent in der Zusammenarbeit in multikulturellen Teams und innovativen Arbeitsumgebungen.",
+        "connect": "Lassen Sie uns verbinden"
+    },
+    "projects": {
+        "projects": "Projekte",
+        "description": "Dies sind die Projekte, an denen ich gearbeitet habe:"
+    },
+    "individuals": {
+        "project": "Full-Stack-Projekt",
+        "seeSource": "Code ansehen",
+        "seeLive": "Siehe Demo"
+    },
+    "certifications": {
+        "title": "Zertifizierungen",
+        "description": "Das sind meine Erfolge und Zertifizierungen:"
+    },
+    "certindividual": {
+        "title": "Zertifikat in Front-End-Entwicklungsbibliotheken.",
+        "title2": "Zertifikat in Javascript-Algorithmen und Datenstrukturen.",
+        "title3": "Zertifikat in Javascript-Datenstrukturen und OOP.",
+        "title4": "Zertifiziert in Ruby und Datenbank.",
+        "title5": "Zertifiziert in React und Redux.",
+        "title6": "Zertifiziert in HTML und CSS."
+    },
+    "cv": {
+        "title": "Mein Lebenslauf",
+        "description": "Wenn Sie mehr über mich erfahren möchten, finden Sie hier meinen Lebenslauf.",
+        "download1": "Lebenslauf herunterladen",
+        "download2": "Herunterladen"
+    }, 
+    "skills": {
+        "title": "Meine Technologien",
+        "description": "Dies sind meine technischen Fähigkeiten, Bibliotheken und Sprachen, mit denen ich gearbeitet habe:"
+    }, 
+    "skills2": {
+        "title": "Soft Skills",
+        "description": "Das sind meine Soft Skills, wenn es um die Arbeit geht:",
+        "communication": "Kommunikation",
+        "teamwork": "Zusammenarbeit",
+        "adaptability": "Anpassungsfähigkeit",
+        "critical": "Kritisches Denken",
+        "interpersonal": "Zwischenmenschliche Fähigkeiten",
+        "continuous": "Fortlaufendes Lernen",
+        "creativity": "Kreativität",
+        "attetion": "Aufmerksamkeit fürs Detail",
+        "problem": "Problemlösung",
+        "responsability": "Verantwortung",
+        "dedicated": "Gewidmet",
+        "time": "Zeiteinteilung"
+    }
+}

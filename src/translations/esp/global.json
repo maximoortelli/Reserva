@@ -1,0 +1,69 @@
+{
+    "header": {
+        "home": "Inicio",
+        "projects": "Proyectos",
+        "certifications": "Certificationes",
+        "cv": "CV",
+        "skills": "Habilidades",
+        "connect": "Reservar Turno"
+    },
+    "banner": {
+        "welcome": "¡Reservá tu Turno!",
+        "hello": "Bienvenido!",
+        "am": "Somos 223 Records,",
+        "description": "Somos un equipo de productores profesionales dedicados a grabar, mezclar y masterizar canciones.",
+        "description2": "Nuestros expertos trabajan estrechamente con cada artista para asegurar que su visión musical se materialice con la máxima fidelidad y profesionalismo.",
+        "connect": "Reservar Turno"
+    },
+    "projects": {
+        "projects": "Proyectos",
+        "description": "Estos son los proyectos en los que he trabajado:"
+    },
+    "individuals": {
+        "project": "Proyecto Full Stack",
+        "seeSource": "Ver código",
+        "seeLive": "Ver demo"
+    },
+    "certifications": {
+        "title": "Certificaciones",
+        "description": "Estos son mis logros y certificaciones:"
+    },
+    "certindividual": {
+        "title": "Certificado en bibliotecas de desarrollo front-end.",
+        "title2": "Certificado en Algoritmos de Javascript y estructuras de datos.",
+        "title3": "Certificado en Estructuras de Datos, Javascript y POO.",
+        "title4": "Certificado en Ruby y Base de datos.",
+        "title5": "Certificado en React y Redux.",
+        "title6": "Certificado en HTML y CSS"
+    },
+    "cv": {
+        "title": "Mi CV",
+        "description": "Si quieres saber más sobre mí, aquí esta mi cv.",
+        "download1": "Descargar CV",
+        "download2": "Descargar"
+    }, 
+    "skills": {
+        "title": "Mis Tecnologías",
+        "description": "Estas son mis habilidades técnicas, bibliotecas y lenguajes con los que he trabajado:"
+    }, 
+    "skills2": {
+        "title": "Habilidades Blandas",
+        "description": "Estas son las habilidades blandas que poseo a la hora de trabajar:",
+        "communication": "Comunicación",
+        "teamwork": "Trabajo en equipo",
+        "adaptability": "Adaptabilidad",
+        "critical": "Pensamiento critico",
+        "interpersonal": "Habilidades interpersonales",
+        "continuous": "Aprendizaje continuo",
+        "creativity": "Creatividad",
+        "attetion": "Atención al detalle",
+        "problem": "Resolucion de problemas",
+        "responsability": "Responsabilidad",
+        "dedicated": "Dedicado",
+        "time": "Gestión del tiempo"
+    },
+    "contact": {
+        "title": "¡Reserve su Turno!",
+        "button": "Enviar"
+    }
+}

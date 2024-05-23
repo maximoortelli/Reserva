@@ -1,0 +1,68 @@
+{
+    "header": {
+        "home": "ホーム",
+        "projects": "プロジェクト",
+        "certifications": "証明書",
+        "cv": "履歴書",
+        "skills": "スキル",
+        "connect": "繋ぎましょう"
+    },
+    "banner": {
+        "welcome": "私のポートフォリオへようこそ",
+        "hello": "こんにちは！",
+        "am": "私はマキシモ・オルテッリです",
+        "description": "私はフルスタック開発者で、堅牢な Web アプリケーションの作成に 3 年の経験があります。高品質のソリューションを提供し、多文化チーム内でのコラボレーションや革新的な作業環境に優れています。",
+        "connect": "繋ぎましょう"
+    },
+    "projects": { 
+        "projects": "プロジェクト",
+        "description": "私が取り組んできたプロジェクトは次のとおりです。"
+    },
+    "individuals": {
+        "project": "フルスタックプロジェクト",
+        "seeSource": "コードを表示する",
+        "seeLive": "デモを見る"
+    },
+    "certifications": {
+        "title": "認証",
+        "description": "私の業績と認定資格は次のとおりです。"
+    },
+    "certindividual": {
+        "title": "フロントエンド開発ライブラリの証明書",
+        "title2": "Javascript アルゴリズムとデータ構造の証明書。",
+        "title3": "Javascript データ構造と OOP の証明書。",
+        "title4": "Ruby とデータベースの認定を受けています。",
+        "title5": "React と Redux で認定されています。",
+        "title6": "HTML と CSS の証明書。"
+    },
+    "cv": {
+        "title": "私の履歴書",
+        "description": "私についてもっと知りたい場合は、ここに私の履歴書があります。",
+        "download1": "履歴書をダウンロード",
+        "download2": "ダウンロード"
+    }, 
+    "skills": {
+        "title": "私のテクノロジー",
+        "description": "私がこれまでに使用した技術スキル、ライブラリ、および言語は次のとおりです。"
+    }, 
+    "skills2": {
+        "title": "ハビリダデス ブランダス",
+        "description": "私が仕事をする際に身につけているソフトスキルは次のとおりです。",
+        "communication": "コミュニケーション",
+        "teamwork": "トラバホ アン エキポ",
+        "adaptability": "適応性",
+        "critical": "ペンサミエント・クリティコ",
+        "interpersonal": "ハビリダデスの対人関係",
+        "continuous": "通奏低音",
+        "creativity": "クレアティヴィダ",
+        "attetion": "詳細な注意",
+        "problem": "問題の解決",
+        "responsability": "責任者",
+        "dedicated": "デディカド",
+        "time": "ティエンポの階段"
+    },
+    "contact": {
+        "title": "連絡先",
+        "button": "エンビア"
+    }
+}

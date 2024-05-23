@@ -1,0 +1,69 @@
+{
+    "header": {
+        "home": "Home",
+        "projects": "Projects",
+        "certifications": "Certifications",
+        "cv": "CV",
+        "skills": "Skills",
+        "connect": "Let's connect"
+    },
+    "banner": {
+        "welcome": "Welcome to my Portfolio",
+        "hello": "Hello!",
+        "am": "I am Maximo Ortelli,",
+        "description": "Full Stack Developer with 3 years of experience creating solid web applications. Providing high-quality solutions, competent in collaborating within multicultural teams and innovative work environments.",
+        "connect": "Let's connect"
+    },
+    "projects": {
+        "projects": "Projects",
+        "description": "These are the projects I have worked on:"
+    },
+    "individuals": {
+        "project": "Desarrolle un proyecto Full Stack inspirado en Airbnb, creando una aplicación web completa desde el frontend hasta el backend.",
+        "seeSource": "See code",
+        "seeLive": "See demo"
+    },
+    "certifications": {
+        "title": "Certifications",
+        "description": "These are my achievements and certifications:"
+    },
+    "certindividual": {
+        "title": "Certificate in Front-End Development Libraries.",
+        "title2": "Certificate in Javascript Algorithms and Data Structures.",
+        "title3": "Certificate in Javascript, Data Structures and OOP.",
+        "title4": "Certified in Ruby and Database.",
+        "title5": "Certified in React and Redux.",
+        "title6": "Certified in HTML and CSS."
+    },
+    "cv": {
+        "title": "My Cv",
+        "description": "If you want to know more about me, here is my cv.",
+        "download1": "Download CV",
+        "download2": "Download"
+    }, 
+    "skills": {
+        "title": "My technologies",
+        "description": "These are my technical skills, libraries and languages ​​I have worked with:"
+    }, 
+    "skills2": {
+        "title": "Soft Skills",
+        "description": "These are the soft skills I have when it comes to working:",
+        "communication": "Communication",
+        "teamwork": "Teamwork",
+        "adaptability": "Adaptability",
+        "critical": "Critical Thinking",
+        "interpersonal": "Interpersonal skills",
+        "continuous": "Continuous learning",
+        "creativity": "Creativity",
+        "attetion": "Attention to detail",
+        "problem": "Problem Resolution",
+        "responsability": "Responsability",
+        "dedicated": "Dedicated",
+        "time": "Time management"
+    },
+    "contact": {
+        "title": "Contact me",
+        "button": "Send"
+    }
+   
+}
